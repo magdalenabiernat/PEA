@@ -18,14 +18,8 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Plecak.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Plecak.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Struktury.h">
       <Filter>Header Files</Filter>
     </ClInclude>

@@ -147,10 +147,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Plecak.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Plecak.h" />
     <ClInclude Include="Struktury.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
